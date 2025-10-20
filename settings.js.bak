@@ -1,0 +1,8 @@
+
+const settings = {
+  OWNER_URL: "https://t.me/Otapengenkawin", //ganti Otapengenkawin dengan username tele lu
+  BOT_USERNAME: "@KingOtax2bot"
+  // isi dengan bot lu jika mau fitur kendalikan bot jarak jauh
+};
+//ganti bagian dalam '...' saja
+module.exports = settings;
